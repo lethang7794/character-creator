@@ -1,0 +1,8 @@
+.backgroundPerspective {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 40%;
+  background-color: hsl(195deg, 20%, 86%);
+}
